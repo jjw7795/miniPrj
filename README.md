@@ -56,5 +56,5 @@
   - [x] 소켓을 구현해서 실시간 대전을 구현해보고 싶어졌다.
 
 ## 💼Download
-  - git clone https://github.com/suhyeon7846/moonRabbit.git
-  
+  - git clone https://github.com/jjw7795/miniPrj
+
